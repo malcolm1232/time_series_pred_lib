@@ -1,0 +1,15 @@
+
+#https://www.kaggle.com/code/ahmedabdulhamid/time-series-analysis-a-complete-guide
+
+Here I am going to reference some useful links that I have used to build this notebook
+Special reference for the helpful information and plots - https://www.kaggle.com/iamleonie/intro-to-time-series-forecasting
+
+ARIMA - https://towardsdatascience.com/time-series-forecasting-arima-models-7f221e9eee06
+Auto-ARIMA - https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
+Keras LSTM - https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+Prophet - https://towardsdatascience.com/time-series-prediction-using-prophet-in-python-35d65f626236
+Special reference - https://www.kaggle.com/iamleonie/intro-to-time-series-forecasting/notebook#Models
+Cyclical features - https://towardsdatascience.com/cyclical-features-encoding-its-about-time-ce23581845ca
+ADF - https://medium.com/@cmukesh8688/why-is-augmented-dickey-fuller-test-adf-test-so-important-in-time-series-analysis-6fc97c6be2f0
+ACF/PACF - https://towardsdatascience.com/significance-of-acf-and-pacf-plots-in-time-series-analysis-2fa11a5d10a8
+LSTM - https://towardsdatascience.com/time-series-analysis-visualization-forecasting-with-lstm-77a905180eba
