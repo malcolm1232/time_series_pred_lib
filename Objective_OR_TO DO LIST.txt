@@ -1,3 +1,18 @@
+1. Remove Seasonality with :
+a. autocor
+b. MA
+c. [fill in the blanks]
+2. ARIMA
+3. SARIMA
+4. LSTM
+5. MLP
+6. Papers
+7. Kaggle TSA
+8. Fine Tune
+9. Ensembles
+
+# Note when tuning, go deep into it 
+
 
 #https://www.kaggle.com/code/ahmedabdulhamid/time-series-analysis-a-complete-guide
 
@@ -13,3 +28,6 @@ Cyclical features - https://towardsdatascience.com/cyclical-features-encoding-it
 ADF - https://medium.com/@cmukesh8688/why-is-augmented-dickey-fuller-test-adf-test-so-important-in-time-series-analysis-6fc97c6be2f0
 ACF/PACF - https://towardsdatascience.com/significance-of-acf-and-pacf-plots-in-time-series-analysis-2fa11a5d10a8
 LSTM - https://towardsdatascience.com/time-series-analysis-visualization-forecasting-with-lstm-77a905180eba
+
+# Other To Do Links
+1. https://www.machinelearningplus.com/time-series/time-series-analysis-python/

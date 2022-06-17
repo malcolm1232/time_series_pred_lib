@@ -1,28 +1,11 @@
-Credit: https://www.kaggle.com/code/andrej0marinchenko/hyperparamaters
-
-#### Logic Notes
-1. Encoding Holiday and non-holiday 
-  - "If it's Transfer event then it's not a work day" , "If it's Bridge event then it's not a work day"
-2. CalendarFourier(freq = 'W', order = 4) #adds sin and cosine fourier
-3. DeterministicProcess #Adds const  trend  trend_squared
-4. "Using LinearRegression to make a generalized line (It's usually called blending.)"
-#### Technical Notes:
-1. Use of Blending using
-  - MultiOutputRegressor
-  - LinearRegression(fit_intercept = True, .. 
-2. Use of MAE vs RMSLE 
-  - Because in RMSLE we are applying log, that means higher the value, the lower the deviation.
-  - Therefore, I will take the Linear Regression's result instead because it has lower MAE and MAE is reliable because it's robust to outlier
-3. Custom Regressor: 
-  - If weird trend, we use decision tree instead.
-      - ExtraTreesRegressor
-      - RandomForestRegressor
-      - BaggingRegressor
-      - model = VotingRegressor
-  - If normal trend,
-      - ridge = Ridge(fit_intercept=True, solver='auto', alpha=0.75, normalize=True, random_state=SEED)
-      - svr = SVR(C = 0.2, kernel = 'rbf')    
-      - model = VotingRegressor([('ridge', ridge), ('svr', svr)]) # Averaging result
-
+Credit: https://www.kaggle.com/code/hikmetsezen/base-model-with-lightgbm-on-demand-forecasting/notebook
 #### Overview Notes:
-1. Implement of Logic Notes and Mainly Custom Regressor
+1. Model: 
+2. Why it got top X: 
+  - Mainly: 
+  
+#### Logic Notes
+1. In [X]: 
+2. In [X]: 
+#### Technical Notes:
+1. 

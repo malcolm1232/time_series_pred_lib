@@ -1,7 +1,7 @@
 # MultiVariate
-Store Sales - Time Series Forecasting
+Store Sales - Time Series Forecasting (Done)
 Predict Future Sales, 
-Store Item Demand Forecasting Challenge
+Store Item Demand Forecasting Challenge (Done)
 M5 Forecasting - Accuracy (2 yrs)
 Acea Smart Water Analytics
 Ubiquant Market Prediction
