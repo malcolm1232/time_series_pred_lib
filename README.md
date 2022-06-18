@@ -11,8 +11,8 @@ Time Series Pred Personal Library
 
 # Objective
 #### Short Term Goal:
-1. We want to Identify Key Theoretical and technical aspect of Time Series Prediction
-2. Allow work to be reproducible across time-series domains
+1. Allow work to be reproducible across time-series domains
+2. We want to Identify Key Theoretical and technical aspect of Time Series Prediction
 
 #### Longer Term Goal: 
 1. Provides timestamp of Time Series models. 
