@@ -11,8 +11,7 @@ c. [fill in the blanks]
 8. Fine Tune
 9. Ensembles
 
-# Note when tuning, go deep into it 
-
+# Note Revise Tuning
 
 #https://www.kaggle.com/code/ahmedabdulhamid/time-series-analysis-a-complete-guide
 
@@ -29,5 +28,5 @@ ADF - https://medium.com/@cmukesh8688/why-is-augmented-dickey-fuller-test-adf-te
 ACF/PACF - https://towardsdatascience.com/significance-of-acf-and-pacf-plots-in-time-series-analysis-2fa11a5d10a8
 LSTM - https://towardsdatascience.com/time-series-analysis-visualization-forecasting-with-lstm-77a905180eba
 
-# Other To Do Links
+# Other Read
 1. https://www.machinelearningplus.com/time-series/time-series-analysis-python/
