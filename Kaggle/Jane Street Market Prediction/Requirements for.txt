@@ -1,0 +1,5 @@
+Modelled as a binary categorical end function, 0 or 1, 
+
+1. print('note to min max scale')
+2. replace weight and resp since : Formulae: not in given data,
+3. Other data ! = weight / resp 

@@ -1,0 +1,19 @@
+# MultiVariate
+Store Sales - Time Series Forecasting (Done)
+Predict Future Sales, 
+Store Item Demand Forecasting Challenge (Done)
+M5 Forecasting - Accuracy (2 yrs)
+Acea Smart Water Analytics
+Ubiquant Market Prediction
+Web Traffic Time Series Forecasting
+Delhi Weather Data
+Jane Street Market Prediction : https://www.kaggle.com/competitions/jane-street-market-prediction/discussion/199326#1090443
+
+
+# UniVariate
+Hourly Energy Consumption
+
+# Others
+American Express - Default Prediction
+JPX Tokyo Stock Exchange Prediction
+

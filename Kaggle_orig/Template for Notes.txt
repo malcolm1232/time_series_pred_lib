@@ -1,0 +1,11 @@
+Credit: https://www.kaggle.com/code/hikmetsezen/base-model-with-lightgbm-on-demand-forecasting/notebook
+#### Overview Notes:
+1. Model: 
+2. Why it got top X: 
+  - Mainly: 
+  
+#### Logic Notes
+1. In [X]: 
+2. In [X]: 
+#### Technical Notes:
+1. 

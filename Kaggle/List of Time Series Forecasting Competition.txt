@@ -1,14 +1,16 @@
 # MultiVariate
-Store Sales - Time Series Forecasting (Done)
-Predict Future Sales, 
+[Format]
+{Competition Name} | {MultiVar/MultiRegN/UniVar/PredType} | {Short Description} | {Long Description}
+
+Store Sales - Time Series Forecasting (Done) | Multi Variate | Pred Multiple Store Sales | [Multiple stores, multiple prediction; i.e multiple Uni variate, with intercorr Vars] | predict total sales for every product and store in the next month
+Predict Future Sales,  : Multi Variate :     | Multi Variate | Pred Multiple Store Sales | "predict total sales for every product and store in the next month" | Russian
 Store Item Demand Forecasting Challenge (Done)
 M5 Forecasting - Accuracy (2 yrs)
 Acea Smart Water Analytics
-Ubiquant Market Prediction
+Ubiquant Market Prediction (July 2022)
 Web Traffic Time Series Forecasting
 Delhi Weather Data
-Jane Street Market Prediction : https://www.kaggle.com/competitions/jane-street-market-prediction/discussion/199326#1090443
-
+Jane Street Market Prediction (Done 1) : https://www.kaggle.com/competitions/jane-street-market-prediction/discussion/199326#1090443
 
 # UniVariate
 Hourly Energy Consumption
@@ -17,3 +19,6 @@ Hourly Energy Consumption
 American Express - Default Prediction
 JPX Tokyo Stock Exchange Prediction
 
+
+# Good Notebooks:
+Multi RegN : Predict Future Sales: https://www.kaggle.com/code/jagangupta/time-series-basics-exploring-traditional-ts

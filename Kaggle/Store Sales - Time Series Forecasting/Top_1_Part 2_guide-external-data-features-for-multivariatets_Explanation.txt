@@ -1,0 +1,24 @@
+Competition Files:
+1. holidays_events
+2. oil
+3. sample_submission
+4. stores
+5. train
+6. test
+7. transactions
+
+# CSV Train
+Params Required:
+date
+store_nbr : {store number}
+family : {i.e AUTOMOTIVE, BABY CARE, BEAUTY}
+onpromotion : item on promotion (check again)
+
+# CSV Oil
+Params Required:
+date
+oil price (wti)
+
+
+
+
