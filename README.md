@@ -6,7 +6,7 @@ Time Series Pred Personal Library
 2. Thus, it is a good habit to spend a little time each day to "know what we dont know"
 3. Useful Kaggle notebooks w.r.t Multivariate TS Prediction will be uploaded, defining key features / model for future reference.
   - With respect to time series prediction, the key Objective is to identify key work by fellow Kagglers's amazing work to increase predictability for namely MultiVariate Time Series Prediction.
-  - In this amazing era of people who love to share their work to improve one another, we want to capitalize on great minds to positively reinforce knowledge and to learn from one another, 
+  - In this amazing era of people who love to share their work to improve one another, we want to capitalize on great minds to positively reinforce knowledge and to learn from one another
 
 
 # Objective
